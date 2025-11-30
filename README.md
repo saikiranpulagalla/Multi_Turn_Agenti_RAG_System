@@ -1,4 +1,4 @@
-# Agentic RAG System
+# Multi-Turn Agentic RAG System
 
 A sophisticated Retrieval-Augmented Generation (RAG) system powered by intelligent agents and language models. This system orchestrates multiple specialized agents to provide intelligent document analysis, web search, and content synthesis.
 
