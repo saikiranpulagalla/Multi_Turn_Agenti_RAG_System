@@ -1,4 +1,4 @@
-# 🤖 Agentic RAG System
+# 🤖 Multi-Turn Agentic RAG System
 
 > **Advanced Retrieval-Augmented Generation (RAG) powered by intelligent multi-agent orchestration, featuring smart routing, persistent vector storage, and complete observability.**
 
